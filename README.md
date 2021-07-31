@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Notes
+
+[Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8)
+
+## JSON Server
+
+A full fake REST API. Cannot deploy. Just a local backend to work with. `npm run server` to run the server because I named the script as "server" in package.json. Server: `http://localhost:5000`.
